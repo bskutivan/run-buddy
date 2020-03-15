@@ -8,7 +8,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-https://bkutivan.github.io/run-buddy/
+ https://bskutivan.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Brandon Kutivan
